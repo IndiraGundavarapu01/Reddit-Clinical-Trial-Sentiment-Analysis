@@ -52,7 +52,7 @@ Implementing error handling and exponential backoff to manage API rate limits.
 
 - Truncating long post content to fit the input size limit of the sentiment analysis model while preserving the essence of the post.
 
-## Examples:
+## Results:
 
 Example of a scraped post:
 
